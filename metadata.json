@@ -1,0 +1,6 @@
+{
+  "name": "Football AI",
+  "description": "Football live scores, tactical telemetry, standings, and AI match analytics platform with English LTR and Persian RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
